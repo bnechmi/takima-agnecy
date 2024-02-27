@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="takima-agency:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/takima_agency_jar</output-path>
+    <root id="archive" name="takima-agency.jar">
+      <element id="module-output" name="takima-agency" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/2.0.6/slf4j-api-2.0.6.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
